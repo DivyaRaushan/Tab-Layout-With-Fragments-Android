@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TabLayoutPracticeApp</string>
+
+    <string name="first_section">CHATS</string>
+    <string name="second_section">STATUS</string>
+    <string name="third_section">CALLS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
